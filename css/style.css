@@ -31,7 +31,7 @@ body {
     overflow: hidden;
     
     /* optional */
-    background-image: url(/../assets/background.png);
+    background-image: url(background.png);
     background-size: cover;
     /* background-position: 31rem; */
     background-position: 22rem;
